@@ -12,7 +12,7 @@ import { DomSanitizer } from '@angular/platform-browser/src/security/dom_sanitiz
 
 @Component({
   selector: 'page-about',
-  templateUrl: 'about.html',//1
+  templateUrl: 'about.html',//2
 })
 export class AboutPage {
 
